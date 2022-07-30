@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abishai
-- 👀 I am a Research Intern @ Microsoft Research and I am interested in Deep Learning Architectures!
+- 👀 I am a Research Fellow @ Microsoft Research. 
 
 <!---
 abinezer/abinezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
